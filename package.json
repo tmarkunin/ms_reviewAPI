@@ -1,0 +1,14 @@
+{
+  "name": "reviewAPI",
+  "version": "0.0.1",
+  "description": "A Review Service for our store",
+  "scripts": {
+    "start": "node reviewApi.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "express": "4.12.x",
+    "mongoose": "^4.6.8"
+  },
+  "repository": {}
+}

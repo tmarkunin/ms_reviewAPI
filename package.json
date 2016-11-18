@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A Review Service for our store",
   "scripts": {
-    "start": "node reviewApi.js"
+    "start": "node reviewAPI.js"
   },
   "dependencies": {
     "body-parser": "^1.13.1",
